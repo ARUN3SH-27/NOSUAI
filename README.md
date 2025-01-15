@@ -1,7 +1,4 @@
 # **SummarAIser: AI-Powered Text Summarization Tool**  
-
-![SummarAIser Banner](placeholder_for_banner_image)  
-
 ## **Overview**  
 SummarAIser is an AI-driven educational assistant designed to streamline the process of digesting lengthy text materials. Leveraging advanced Natural Language Processing (NLP), it creates concise summaries, helping students, researchers, and educators save time while enhancing their understanding of complex content.  
 
