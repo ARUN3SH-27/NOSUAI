@@ -1,5 +1,3 @@
-# NOSUAI
-
 # **SummarAIser: AI-Powered Text Summarization Tool**  
 
 ![SummarAIser Banner](placeholder_for_banner_image)  
